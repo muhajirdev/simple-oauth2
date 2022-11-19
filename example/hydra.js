@@ -53,6 +53,6 @@ createApplication(({ app, callbackUrl }) => {
   });
 
   app.get("/", (req, res) => {
-    res.send('Hello<br><a href="/auth">Continue with Quran.com</a>');
+    res.send('Hello<br><a href="/auth">Continue with Hydra</a>');
   });
 });

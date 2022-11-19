@@ -35,7 +35,7 @@ npm run start:dropbox
 
 ### Hydra
 
-See the `./dropbox.js` module as a reference implementation or execute the example with:
+See the `./hydra.js` module as a reference implementation or execute the example with:
 
 ```bash
 npm run start:hydra
